@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/xcoater.iml" filepath="$PROJECT_DIR$/.idea/xcoater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xoater.iml" filepath="$PROJECT_DIR$/.idea/xoater.iml" />
     </modules>
   </component>
 </project>

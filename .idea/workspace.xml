@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de9ce3cd-ae84-4ee9-b735-7df17512853f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/xcoater.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/About.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Honor.html" beforeDir="false" afterPath="$PROJECT_DIR$/Honor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Honor12.html" beforeDir="false" afterPath="$PROJECT_DIR$/Honor12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Partner.html" beforeDir="false" afterPath="$PROJECT_DIR$/Partner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Register.html" beforeDir="false" afterPath="$PROJECT_DIR$/Register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Video.html" beforeDir="false" afterPath="$PROJECT_DIR$/Video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/captcha/get.gif" beforeDir="false" afterPath="$PROJECT_DIR$/captcha/get.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpvideo/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/corpvideo/4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpvideo/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/corpvideo/5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpvideo/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/corpvideo/6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpvideo/7.html" beforeDir="false" afterPath="$PROJECT_DIR$/corpvideo/7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpvideo/8.html" beforeDir="false" afterPath="$PROJECT_DIR$/corpvideo/8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corpvideo/9.html" beforeDir="false" afterPath="$PROJECT_DIR$/corpvideo/9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfs.yun300.cn/group1/M00/19/C9/rBQBHF3c4AqEC9w2AAAAAGmyH7Q649.css" beforeDir="false" afterPath="$PROJECT_DIR$/dfs.yun300.cn/group1/M00/19/C9/rBQBHF3c4AqEC9w2AAAAAGmyH7Q649.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfs.yun300.cn/group1/M00/1A/0E/rBQBHV7wX06EUZcpAAAAAMCFpFo274.css" beforeDir="false" afterPath="$PROJECT_DIR$/dfs.yun300.cn/group1/M00/1A/0E/rBQBHV7wX06EUZcpAAAAAMCFpFo274.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dfs.yun300.cn/group1/M00/1A/0E/rBQBHV7wX1-EULjiAAAAAP8BVn48063.js" beforeDir="false" afterPath="$PROJECT_DIR$/dfs.yun300.cn/group1/M00/1A/0E/rBQBHV7wX1-EULjiAAAAAP8BVn48063.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forget.html" beforeDir="false" afterPath="$PROJECT_DIR$/forget.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hts-cache/doit.log" beforeDir="false" afterPath="$PROJECT_DIR$/hts-cache/doit.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hts-cache/new.lst" beforeDir="false" afterPath="$PROJECT_DIR$/hts-cache/new.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hts-cache/new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hts-cache/new.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hts-cache/new.zip" beforeDir="false" afterPath="$PROJECT_DIR$/hts-cache/new.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hts-cache/winprofile.ini" beforeDir="false" afterPath="$PROJECT_DIR$/hts-cache/winprofile.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hts-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hts-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img202.yun300.cn/repository/image/5af251a9-7a5c-4f3a-ab67-7bbf7d0ad80a.png_{i}xaf76d9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img202.yun300.cn/repository/image/8488b3bd-57a8-4cb9-bf8d-14ff28325584c5b9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/24.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/24.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/25.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/25.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/26.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/26.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/27.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/27.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/28.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/28.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/29.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/29.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/30.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/30.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/31.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/31.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/32.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/32.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/33.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/33.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/34.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/34.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/37.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/37.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro/38.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro/38.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login1862.html" beforeDir="false" afterPath="$PROJECT_DIR$/login1862.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/11/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/25.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/25.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/26.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/26.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/29.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/29.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/35.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/35.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/36.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/36.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/37.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/37.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/38.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/38.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/39.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/39.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/40.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/40.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/41.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/41.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/42.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/42.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/43.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/43.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/44.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/44.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/45.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/45.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/46.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/46.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/47.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/47.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/48.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/48.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/49.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/49.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/50.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/50.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/51.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/51.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/52.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/52.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/53.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/53.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/54.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/54.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/55.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/55.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/56.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/56.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/57.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/57.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/58.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/58.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/59.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/59.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/60.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/60.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/61.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/61.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/62.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/62.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/iconfont88d2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/iconfont88d2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static.bshare.cn/b/bshareC0.js" beforeDir="false" afterPath="$PROJECT_DIR$/static.bshare.cn/b/bshareC0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static.bshare.cn/b/buttonLite.js" beforeDir="false" afterPath="$PROJECT_DIR$/static.bshare.cn/b/buttonLite.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static202.yun300.cn/img/xy_dh_bg28cf.html" beforeDir="false" afterPath="$PROJECT_DIR$/static202.yun300.cn/img/xy_dh_bg28cf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static202.yun300.cn/public/css/cecc/animate.css,iconfont.css,bootstrap.min.css,response.mind6e4.css" beforeDir="false" afterPath="$PROJECT_DIR$/static202.yun300.cn/public/css/cecc/animate.css,iconfont.css,bootstrap.min.css,response.mind6e4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static202.yun300.cn/public/css/cecc/iconfont88d2.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static202.yun300.cn/public/css/cecc/iconfont88d2.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static202.yun300.cn/public/css/cecc/iconfont88d2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static202.yun300.cn/public/css/cecc/iconfont88d2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static202.yun300.cn/public/css/cecc/iconfont88d2.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static202.yun300.cn/public/css/cecc/iconfont88d2.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static202.yun300.cn/public/css/cecc/iconfont88d2.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static202.yun300.cn/public/css/cecc/iconfont88d2.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static202.yun300.cn/public/wgt/coreLibs/cecc/interwords/interwords_zh_CN.min.js,handle.min.js,libs.min.js,render.minc715.js" beforeDir="false" afterPath="$PROJECT_DIR$/static202.yun300.cn/public/wgt/coreLibs/cecc/interwords/interwords_zh_CN.min.js,handle.min.js,libs.min.js,render.minc715.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style0c02.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style0cb6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style0cd5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style13bc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style1a6c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style2fd8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style3177.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style3484.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style3518.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style38bf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style39ea.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style3eb6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style4c91.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style4cbf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style4e1a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style50b5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style5433.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style57c9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style5a93.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style62ba.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style699c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style69be.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style6ce5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style70d2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style77f4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style79c8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style7b8c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style7e09.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style7e3e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style820c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style8865.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style903c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/style9c68.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylea31e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylea626.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/styleaa47.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/styleae62.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/styleb1e9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/styleb630.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/styleb763.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylebed5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylebfbf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylec098.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylec246.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylec5f4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylecd80.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/styled443.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/styled4b7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/styledfc4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylee030.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylee063.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylee46b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylee564.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylef10b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylef643.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylef885.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylef8c5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/css/stylefdd4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min09c3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min0a33.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min1414.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min15cf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min17ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min1f88.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min22b9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min24a7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min2e73.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min32b2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min352f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min3bbd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min3c7e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min409d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min43b5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min4cf7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min52c2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min52fc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min572c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min57e5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min58de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min5c7c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min6952.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min6d26-2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min6d26.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min6dcc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min7347.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min7b3c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min873b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min8961.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min89f9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min8e50.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min8ff0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.min996b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.mina167.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.mina1e3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.mina673.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.mina8ef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.minaa31.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.minb081.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.minb0cb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.minbe2c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.minbe2f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.minc44b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.minc633.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.minc7a2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.mincfdc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.mind084.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.mind323.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.mind437.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.mind5f4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.mindcd6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.mine4c2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.minebf8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.minecbb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.minfc52.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.minfe37.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/js/wow.minfe83.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapi.amap.com/demos/js/liteToolbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/webapi.amap.com/demos/js/liteToolbar.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ay2KW2z5JUDlKigphj4kH3t7zY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\My Websites\xiayu_github\xoater" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de9ce3cd-ae84-4ee9-b735-7df17512853f" name="Changes" comment="" />
+      <created>1655967443160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655967443160</updated>
+      <workItem from="1655967445713" duration="485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

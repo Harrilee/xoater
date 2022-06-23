@@ -1,28 +1,23 @@
-HTTrack3.49-2+htsswf+htsjava launched on Tue, 31 May 2022 17:07:53 at www.xcoater.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" -Y www.xcoater.com -O1 "C:\My Websites\xcoater" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 23 Jun 2022 14:25:04 at http://www.xynmkj.cn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh, en, *" http://www.xynmkj.cn/ -O1 "C:\My Websites\xiayu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-17:07:53	Warning: 	Moved Permanently for www.xcoater.com/robots.txt
-17:07:53	Warning: 	File has moved from www.xcoater.com/robots.txt to http://www.xynmkj.cn/robots.txt
-17:07:54	Warning: 	Moved Permanently for www.xcoater.com/
-17:07:54	Warning: 	File has moved from www.xcoater.com/ to http://www.xynmkj.cn/
-17:07:54	Warning: 	Note: due to www.xynmkj.cn remote robots.txt rules, links beginning with these path will be forbidden: /?p=*, /?s=*, /?r=* (see in the options to disable this)
-17:28:57	Error: 	"Bad Request" (400) at link static202.yun300.cn/public/css/cecc/iconfont.eot?t=1612517433388 (from static202.yun300.cn/public/css/cecc/animate.css,iconfont.css,bootstrap.min.css,response.min.css?v=1638853222000&tenantId=251718&viewType=1)
-17:28:57	Error: 	"Bad Request" (400) at link static202.yun300.cn/public/css/cecc/iconfont.woff?t=1612517433388 (from static202.yun300.cn/public/css/cecc/animate.css,iconfont.css,bootstrap.min.css,response.min.css?v=1638853222000&tenantId=251718&viewType=1)
-17:28:57	Error: 	"Bad Request" (400) at link static202.yun300.cn/public/css/cecc/iconfont.ttf?t=1612517433388 (from static202.yun300.cn/public/css/cecc/animate.css,iconfont.css,bootstrap.min.css,response.min.css?v=1638853222000&tenantId=251718&viewType=1)
-17:28:57	Error: 	"Bad Request" (400) at link static202.yun300.cn/public/css/cecc/iconfont.svg?t=1612517433388 (from static202.yun300.cn/public/css/cecc/animate.css,iconfont.css,bootstrap.min.css,response.min.css?v=1638853222000&tenantId=251718&viewType=1)
-17:28:57	Error: 	"Not Found" (404) at link static202.yun300.cn/img/xy_dh_bg.png?tenantId=251718&viewType=1&v=1638853222000 (from static202.yun300.cn/css/ftmpl_impt_19060f82-679e-4e33-bf56-32747883a57f.css?v=1638853222000&tenantId=251718&viewType=1)
-17:29:02	Warning: 	Retry after error -4 (Incorrect length (930161 Bytes, 1052322 expected)) at link www.xynmkj.cn/repository/image/8a52be27-3c42-4abf-b507-da43fc8c47e7.jpeg (from www.xynmkj.cn/Honor.html)
-17:30:48	Error: 	"Not Found" (404) at link www.xynmkj.cn/corpvideo/5.html (from www.xynmkj.cn/Honor12.html)
-17:30:48	Error: 	"Not Found" (404) at link www.xynmkj.cn/corpvideo/4.html (from www.xynmkj.cn/Honor12.html)
-17:30:48	Error: 	"Not Found" (404) at link www.xynmkj.cn/corpvideo/8.html (from www.xynmkj.cn/Honor12.html)
-17:30:48	Error: 	"Not Found" (404) at link www.xynmkj.cn/corpvideo/6.html (from www.xynmkj.cn/Honor12.html)
-17:30:48	Error: 	"Not Found" (404) at link www.xynmkj.cn/corpvideo/7.html (from www.xynmkj.cn/Honor12.html)
-17:30:48	Error: 	"Not Found" (404) at link www.xynmkj.cn/corpvideo/9.html (from www.xynmkj.cn/Honor12.html)
+14:25:05	Warning: 	Note: due to www.xynmkj.cn remote robots.txt rules, links beginning with these path will be forbidden: /?p=*, /?s=*, /?r=* (see in the options to disable this)
+14:45:58	Error: 	"Bad Request" (400) at link static202.yun300.cn/public/css/cecc/iconfont.eot?t=1612517433388 (from static202.yun300.cn/public/css/cecc/animate.css,iconfont.css,bootstrap.min.css,response.min.css?v=1638853222000&tenantId=251718&viewType=1)
+14:45:58	Error: 	"Bad Request" (400) at link static202.yun300.cn/public/css/cecc/iconfont.woff?t=1612517433388 (from static202.yun300.cn/public/css/cecc/animate.css,iconfont.css,bootstrap.min.css,response.min.css?v=1638853222000&tenantId=251718&viewType=1)
+14:45:58	Error: 	"Bad Request" (400) at link static202.yun300.cn/public/css/cecc/iconfont.ttf?t=1612517433388 (from static202.yun300.cn/public/css/cecc/animate.css,iconfont.css,bootstrap.min.css,response.min.css?v=1638853222000&tenantId=251718&viewType=1)
+14:45:58	Error: 	"Bad Request" (400) at link static202.yun300.cn/public/css/cecc/iconfont.svg?t=1612517433388 (from static202.yun300.cn/public/css/cecc/animate.css,iconfont.css,bootstrap.min.css,response.min.css?v=1638853222000&tenantId=251718&viewType=1)
+14:45:58	Error: 	"Not Found" (404) at link static202.yun300.cn/img/xy_dh_bg.png?tenantId=251718&viewType=1&v=1638853222000 (from static202.yun300.cn/css/ftmpl_impt_19060f82-679e-4e33-bf56-32747883a57f.css?v=1638853222000&tenantId=251718&viewType=1)
+14:47:53	Error: 	"Not Found" (404) at link www.xynmkj.cn/corpvideo/5.html (from www.xynmkj.cn/Honor12.html)
+14:47:53	Error: 	"Not Found" (404) at link www.xynmkj.cn/corpvideo/4.html (from www.xynmkj.cn/Honor12.html)
+14:47:53	Error: 	"Not Found" (404) at link www.xynmkj.cn/corpvideo/8.html (from www.xynmkj.cn/Honor12.html)
+14:47:53	Error: 	"Not Found" (404) at link www.xynmkj.cn/corpvideo/6.html (from www.xynmkj.cn/Honor12.html)
+14:47:53	Error: 	"Not Found" (404) at link www.xynmkj.cn/corpvideo/7.html (from www.xynmkj.cn/Honor12.html)
+14:47:53	Error: 	"Not Found" (404) at link www.xynmkj.cn/corpvideo/9.html (from www.xynmkj.cn/Honor12.html)
 
-HTTrack Website Copier/3.49-2 mirror complete in 29 minutes 48 seconds : 379 links scanned, 363 files written (48266171 bytes overall) [43873209 bytes received at 24537 bytes/sec], 8357915 bytes transferred using HTTP compression in 236 files, ratio 42%, 2.3 requests per connection
-(11 errors, 6 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 29 minutes 58 seconds : 381 links scanned, 368 files written (47227004 bytes overall) [43321974 bytes received at 24094 bytes/sec], 7843553 bytes transferred using HTTP compression in 227 files, ratio 44%, 1.9 requests per connection
+(11 errors, 1 warnings, 0 messages)
